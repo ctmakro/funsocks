@@ -19,10 +19,6 @@ tcp_server.on('connection',(socket) => { //socket is a net.Socket, which is also
     socket.write(response);
     socket.end();
   })
-
-  socket.on('end',()=>{
-    console.log('client disconnected from tcp_server');
-  })
 })
 
 tcp_server.on('listening',()=>{

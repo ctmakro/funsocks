@@ -11,3 +11,7 @@ Visit `localhost:8008` for the TCP server (with emulated HTTP response)
 Visit `localhost:8118` for the HTTP server built with Node's HTTP library.
 
 Visit `localhost:8228` for the TCP proxy. You will see response from `localhost:8118`.
+
+## For your convenient
+
+Check Node's documentation for more details about the 'net' library.
