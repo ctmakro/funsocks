@@ -1,6 +1,6 @@
 # funsocks
 
-Have a little fun with TCP and HTTP, then build a TCP proxy from scratch.
+Had a little fun with TCP and HTTP, then built a TCP proxy from scratch.
 
 Very few lines of code!
 
